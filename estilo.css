@@ -1,0 +1,31 @@
+@font-face{
+    font-family: "Ribeye Marrow";
+    src: url("fonts\ribeye-marrow-v9-latin-regular.woff2");
+}
+h1.titulo {
+    text-align: center;
+    font-family: Ribeye Marrow;
+}
+.intro{
+    line-height: 200%;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.latin {
+    font-family: "Lobster";
+    font-size: 2.5rem;
+}
+
+.espanol {
+    font-family: "Just Another Hand";
+    font-size: 3.5rem;
+    text-align: right;
+    color: white;
+}
+
+body {
+    background-color: #CBAC4D;
+}
